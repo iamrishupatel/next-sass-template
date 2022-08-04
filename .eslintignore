@@ -1,0 +1,9 @@
+node_modules/**
+.next/
+build
+.husky
+package.json
+package-lock.json
+
+# local env files
+.env*.local

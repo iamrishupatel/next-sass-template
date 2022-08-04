@@ -1,0 +1,9 @@
+# Ignore artifacts:
+build
+coverage
+.next
+.husky
+node_modules
+
+# local env files
+.env*.local
